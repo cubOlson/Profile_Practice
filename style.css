@@ -1,0 +1,25 @@
+h1.name {
+    color: red;
+    padding: 40px 20px;
+  }
+
+  h2.theClock {
+      color: red;
+      padding: 50px 20px;
+  }
+
+  ul.my-details {
+    border: 5px solid rgb(255, 164, 164);
+    padding: 40px;
+    color: red;
+  }
+
+  li.list {
+    list-style-type: square;
+    padding: 10px;
+  }
+
+  body {
+    display:flex; flex-direction:column; justify-content:left;
+    min-height:100vh;
+  }
